@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm data scientist and NLP Enthusiast
+basicly i'm on the way being data nerd with skate
+contact me : yusifhasanlien@gmail.com
 
 <!--
 **yusif-hasanli/yusif-hasanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
