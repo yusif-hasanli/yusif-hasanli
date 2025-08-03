@@ -1,6 +1,5 @@
 ## Hi, I'm data scientist and NLP Enthusiast
-basicly i'm on the way being data nerd with skate
-contact me : yusifhasanlien@gmail.com
+for contact : yusifhasanlien@gmail.com
 
 
 I’m currently learning NLP applications for  business in real life tasks, (like Q & A chatbotz)
