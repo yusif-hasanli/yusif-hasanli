@@ -1,10 +1,7 @@
-## Hi, I'm data scientist and NLP Enthusiast
+## Hi, I'm freelance data scientist and NLP Enthusiast
 for contact : yusifhasanlien@gmail.com
 
-
-I’m currently learning NLP applications for  business in real life tasks, (like Q & A chatbotz)
-
-freedom and skate and data skills 
+My goal is being data scientist with skate
 <!--
 **yusif-hasanli/yusif-hasanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
