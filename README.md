@@ -1,4 +1,4 @@
-## Hi, I'm freelance data scientist and NLP Enthusiast
+## Hi, I'm  data scientist
 for contact : yusifhasanlien@gmail.com
 
 My goal is being data scientist with skate
