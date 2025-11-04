@@ -1,7 +1,7 @@
 ## Hi, I'm  data scientist
 for contact : yusifhasanlien@gmail.com
 
-My goal is being data scientist with skate
+My goal is being problem solver and deep-dive complex tasks.
 <!--
 **yusif-hasanli/yusif-hasanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
